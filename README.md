@@ -1,4 +1,8 @@
 # Planet-Generator
+**SAMPLES**
+<br />
+<br />
+
 ![1](https://user-images.githubusercontent.com/95224523/226648804-0e8b833e-7dd6-47fa-b674-ef08be856a01.gif)
 ![2](https://user-images.githubusercontent.com/95224523/226648822-5d83317d-728e-49c9-91fb-03c6d549ac0b.gif)<br />
 ![3](https://user-images.githubusercontent.com/95224523/226648832-0495700d-7b68-45a4-ab89-2b247dfce957.gif)
