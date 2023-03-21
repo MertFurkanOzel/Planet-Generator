@@ -1,5 +1,5 @@
 # Planet-Generator
-**SAMPLES**
+*SAMPLES*
 <br />
 <br />
 
