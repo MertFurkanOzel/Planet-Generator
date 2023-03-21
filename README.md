@@ -1,6 +1,8 @@
 # Planet-Generator
-![1](https://user-images.githubusercontent.com/95224523/226642630-6f35f5ba-498e-4685-8e05-c583abf39e90.gif)
-![2](https://user-images.githubusercontent.com/95224523/226642615-a7645d28-46fc-4438-a736-26c5eeaa031d.gif)
+![1](https://user-images.githubusercontent.com/95224523/226643324-d45849a9-4075-48f1-81bf-098a6e3a277a.gif)
+![2](https://user-images.githubusercontent.com/95224523/226643302-a6d1c1e3-db42-4ed9-a914-764b56eb80f6.gif)
+![3](https://user-images.githubusercontent.com/95224523/226643454-757e3af8-8087-4337-a4e3-19638b4337d2.gif)
+
 
 
 
